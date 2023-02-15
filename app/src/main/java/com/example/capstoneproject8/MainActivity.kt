@@ -38,6 +38,6 @@ fun Greeting(name: String) {
 @Composable
 fun DefaultPreview() {
     CapstoneProject8Theme {
-        Greeting("Android")
+        Greeting("Mama mo")
     }
 }
